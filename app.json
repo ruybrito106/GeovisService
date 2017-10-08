@@ -9,6 +9,11 @@
     "image": "heroku/go:1.9",
     "mount_dir": "src/github.com/ruybrito106/GeovisService",
     "website": "http://github.com/ruybrito106/GeovisService",
-    "repository": "http://github.com/ruybrito106/GeovisService"
+    "repository": "http://github.com/ruybrito106/GeovisService",
+    "buildpacks": [
+      {
+        "url": "heroku/go"
+      }
+    ]
   }
   
