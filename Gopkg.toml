@@ -1,7 +1,5 @@
-[[constraint]]
-  branch = "master"
-  name = "github.com/kpango/glg"
-
-[[constraint]]
-  branch = "master"
-  name = "github.com/gorilla/mux"
+[metadata.heroku]
+  root-package = "github.com/ruybrito106/GeovisService"
+  go-version = "go1.9.1"
+  install = ["./gorilla", "./kpango"]
+  ensure = "false"
