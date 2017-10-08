@@ -5,10 +5,10 @@ import (
 	"strconv"
 
 	"github.com/kpango/glg"
-	"github.com/rbb3/GeovisService/src/request"
+	"github.com/ruybrito106/GeovisService/src/request"
 
 	"github.com/gorilla/mux"
-	//"github.com/rbb3/GeovisService/src/request/path_request"
+	//"github.com/ruybrito106/GeovisService/src/request/path_request"
 )
 
 func NewRouter() *mux.Router {

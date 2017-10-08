@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/kpango/glg"
-	"github.com/rbb3/GeovisService/src/router"
+	"github.com/ruybrito106/GeovisService/src/router"
 )
 
 func main() {
