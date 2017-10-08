@@ -1,0 +1,7 @@
+[[constraint]]
+  branch = "master"
+  name = "github.com/kpango/glg"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/gorilla/mux"
