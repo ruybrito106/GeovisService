@@ -1,7 +1,0 @@
-{
-    "rootPath": "github.com/ruybrito106/GeovisService",
-    "heroku": {
-        "install" : [ "./..." ],
-        "goVersion": "go1.9"
-     }
-}
