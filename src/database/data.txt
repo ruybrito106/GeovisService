@@ -1,0 +1,5 @@
+temperature,city=recife,country=brazil,continent=america value=27.23,lat=23.531,long=87.235 1506816000000000000
+temperature,city=paulista,country=brazil,continent=america value=27.03,lat=23.531,long=65.235 1506816000000000000
+temperature,city=natal,country=brazil,continent=america value=87.01,lat=23.531,long=90.235 1506816000000000000
+temperature,city=natal,country=argentina,continent=america value=87.01,lat=23.531,long=90.235 1506816000000000000
+temperature,city=natal,country=england,continent=europe value=81.00,lat=23.531,long=90.235 1506816000000000000

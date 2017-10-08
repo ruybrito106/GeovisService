@@ -1,0 +1,14 @@
+{
+    "name": "GeoVis Service",
+    "description": "Go service for providing data on geographic visualization",
+    "keywords": [
+      "geography",
+      "visualization",
+      "geodata"
+    ],
+    "image": "heroku/go:1.6",
+    "mount_dir": "src/github.com/rbb3/GeovisService",
+    "website": "http://github.com/ruybrito106/GeovisService",
+    "repository": "http://github.com/ruybrito106/GeovisService"
+  }
+  
